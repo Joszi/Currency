@@ -1,0 +1,9 @@
+joachim/parser/GsonParser$Rates.class
+joachim/pdf/GeneratePdf.class
+joachim/parser/GsonParser$1.class
+joachim/parser/GsonParser.class
+joachim/controller/CurrencyController.class
+joachim/repository/CurrencyRepository.class
+joachim/CurrencyApplication.class
+joachim/model/Currency.class
+joachim/parser/GsonParser$CurrencyObject.class
